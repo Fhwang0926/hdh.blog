@@ -1,11 +1,7 @@
 echo off
 hugo -t hugo-notepadium
 
-
-
 cls
-echo start update
-
 timeout 3
 
 echo start source commit
