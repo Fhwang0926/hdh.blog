@@ -1,0 +1,10 @@
+[submodule "themes/public"]
+	path = blog/themes/public
+	url = https://github.com/Fhwang0926/hugo-notepadium.git
+[submodule "blog/themes/public"]
+	path = blog/themes/public
+	url = https://github.com/Fhwang0926/hugo-notepadium.git
+[submodule "blog/public"]
+	path = blog/public
+	url = https://github.com/Fhwang0926/hugo-notepadium.git
+	branch = master
