@@ -2,18 +2,10 @@ echo off
 hugo -t hugo-notepadium
 
 cls
-timeout 3
 
-echo start source commit
-git add .
-git commit -m "%1" 
-git push origin master
 
-echo end source commit
-cls
 echo start build commit
-
-timeout 3
+timeout 1
 
 cd public
 git add .
@@ -23,5 +15,15 @@ echo done build commit, deploy
 
 timeout 3
 
+cls
+
 cd ..
+
+echo start source commit
+git add .
+git commit -m "%1" 
+git push origin master
+
+echo end source commit
+
 echo on
