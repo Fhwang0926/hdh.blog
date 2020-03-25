@@ -1,0 +1,57 @@
+baseURL = "https://hdh.github.io"
+title = "hdh.pad"
+theme = "hugo-notepadium"
+copyright = "©2019 hdh.pad"
+
+languageCode = "us-en"
+hasCJKLanguage = true
+
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = "XXX"
+
+# Google Analytics
+#googleAnalytics = "UA-129286373-45"
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = false  # enable raw HTML in Markdown
+
+[params]
+style = "dark"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
+dateFormat = "2006-01-02"  # if unset, default is "2006-01-02"
+logo = "https://avatars0.githubusercontent.com/u/20344306?s=460&u=b202366fb0ccef96efdf2b6e425ebd54a0b4a117&v=4"  # if you have a logo png
+slogan = "Simple and TOOOOO simple here post"
+license = ""  # CC License
+fullRss = false # Puts entire HTML post into rss 'description' tag. If unset, default is false.
+
+[params.comments]
+enable = true  # En/Disable comments globally, default: false. You can always enable comments on per page.
+
+[params.math]
+enable = false  # optional: true, false. Enable globally, default: false. You can always enable math on per page.
+use = "katex"  # option: "katex", "mathjax". default: "katex"
+
+[params.syntax]
+use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
+theme = "xcode"
+darkTheme = "xcode-dark"  # apply this theme in dark mode
+
+[params.nav]
+showCategories = true       # /categories/
+showTags = true             # /tags/
+
+# custom navigation items
+
+[[params.nav.custom]]
+title = "study"
+url = "/study"
+
+[[params.nav.custom]]
+title = "security"
+url = "/security"
+
