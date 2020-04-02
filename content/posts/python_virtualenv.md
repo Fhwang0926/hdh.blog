@@ -12,7 +12,6 @@ comments = false
 justify = false  # text-align: justify;
 single = false  # display as a single page, hide navigation on bottom, like as about page.
 license = "MIT"  # CC License
-draft = true
 +++
 
 ### we can set virtual env with python on system
