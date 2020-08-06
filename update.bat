@@ -1,8 +1,5 @@
 echo off
-cd hugo
-hugo.exe -t hugo-notepadium
-cd ..
-
+hugo\hugo.exe -t hugo-notepadium
 
 echo start build commit
 timeout 1
