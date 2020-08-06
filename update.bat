@@ -3,7 +3,6 @@ hugo/hugo.exe -t hugo-notepadium
 
 cls
 
-
 echo start build commit
 timeout 1
 
