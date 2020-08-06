@@ -8,6 +8,7 @@ echo start build commit
 timeout 1
 
 cd public
+git rm -rf --cached .
 git add .
 git commit -m "%1" 
 git push origin master
