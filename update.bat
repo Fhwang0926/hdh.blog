@@ -15,8 +15,6 @@ echo done build commit, deploy
 
 timeout 3
 
-cls
-
 cd ..
 
 echo start source commit
