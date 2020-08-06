@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on hdh.pad</title>
+    <link>https://fhwang0926.github.io/blog/categories/</link>
+    <description>Recent content in Categories on hdh.pad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>us-en</language>
+    <copyright>©2019 hdh.pad</copyright>
+    
+	<atom:link href="https://fhwang0926.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on hdh.pad</title>
+    <link>https://fhwang0926.github.io/blog/posts/</link>
+    <description>Recent content in Posts on hdh.pad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>us-en</language>
+    <copyright>©2019 hdh.pad</copyright>
+    <lastBuildDate>Thu, 06 Aug 2020 23:31:26 +0900</lastBuildDate>
+    
+	<atom:link href="https://fhwang0926.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://fhwang0926.github.io/blog/posts/algorithms/intro/</link>
+      <pubDate>Thu, 06 Aug 2020 23:31:26 +0900</pubDate>
+      
+      <guid>https://fhwang0926.github.io/blog/posts/algorithms/intro/</guid>
+      <description>algorithms what is it? In mathematics and computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation. Wikipedia site list BackJoon Programmers Codeup 최소 주 1회 회사 끝나고 시간내서 하는 것으로 목표 재설정 두둥</description>
+    </item>
+    
+    <item>
+      <title>Python_virtualenv</title>
+      <link>https://fhwang0926.github.io/blog/posts/python_virtualenv/</link>
+      <pubDate>Thu, 02 Apr 2020 20:42:29 +0900</pubDate>
+      
+      <guid>https://fhwang0926.github.io/blog/posts/python_virtualenv/</guid>
+      <description>we can set virtual env with python on system  python -m pip install virtualenv virtualenv [name]  ex) auto_script.bat
+REM create virtual env REM virtualenv [name] REM %1 is virtualenv name REM exit is deactivate echo set python env : %1 source %1/Script/actiate
+switching env using command with activate or deactivate</description>
+    </item>
+    
+    <item>
+      <title>Started</title>
+      <link>https://fhwang0926.github.io/blog/posts/started/</link>
+      <pubDate>Wed, 25 Mar 2020 22:28:59 +0900</pubDate>
+      
+      <guid>https://fhwang0926.github.io/blog/posts/started/</guid>
+      <description>begin yes it&amp;rsquo;s just start kkkk</description>
+    </item>
+    
+  </channel>
+</rss>
