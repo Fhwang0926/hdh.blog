@@ -29,4 +29,4 @@ REM exit is deactivate
 echo set python env : %1
 source %1/Script/actiate
 
-3. switching env using command with activate or deactivate
+switching env using command with activate or deactivate

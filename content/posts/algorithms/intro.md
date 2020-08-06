@@ -2,7 +2,7 @@
 title = "Algorithms"
 date = 2020-08-06T23:31:26+09:00
 lastmod = 2020-08-06T23:31:26+09:00
-tags = [algorithms]
+tags = []
 categories = []
 imgs = []
 cover = ""  # image show on top

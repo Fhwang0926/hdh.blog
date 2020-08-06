@@ -55,3 +55,7 @@ url = "/study"
 title = "#Security"
 url = "/security"
 
+[[params.nav.custom]]
+title = "#Algorithms"
+url = "/algorithms"
+
