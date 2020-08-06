@@ -1,5 +1,5 @@
 echo off
-hugo -t hugo-notepadium
+hugo/hugo.exe -t hugo-notepadium
 
 cls
 
