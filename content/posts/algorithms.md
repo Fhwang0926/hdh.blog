@@ -2,7 +2,7 @@
 title = "Algorithms"
 date = 2020-08-06T23:31:26+09:00
 lastmod = 2020-08-06T23:31:26+09:00
-tags = []
+tags = [algorithms]
 categories = []
 imgs = []
 cover = ""  # image show on top
@@ -12,7 +12,6 @@ comments = false
 justify = false  # text-align: justify;
 single = false  # display as a single page, hide navigation on bottom, like as about page.
 license = "MIT"  # CC License
-<!-- draft = true -->
 +++
 
 algorithms
